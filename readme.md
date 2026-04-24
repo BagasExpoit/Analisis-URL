@@ -26,4 +26,4 @@ Cyber URL-ANALISIS is a professional-grade cybersecurity tool that analyzes URLs
 git clone https://github.com/BagasExpoit/Analisis-URL.git
 cd Analisis-URL
 pip install -r requirements.txt
-python3 main. py
+python3 main.py
