@@ -19,7 +19,7 @@ Cyber URL-ANALISIS is a professional-grade cybersecurity tool that analyzes URLs
 | 📜 Scan History | SQLite database stores all previous scans |
 | 📈 Statistics Dashboard | View threat distribution and trends |
 | 🔑 API Integration | Optional VirusTotal API for enhanced detection |
-
+| JIKA BELUM PUNYA DAFTAR [`DISINI`](https://www.virustotal.com/gui/my-apikey) 
 ### 🚀 Quick Start
 
 ```makefile
