@@ -1,5 +1,2 @@
 rich
-colorama
-pyfiglet
-request
-bs4
+requests
